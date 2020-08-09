@@ -1,0 +1,37 @@
+{
+  "name": "postcss-optimise-media-query-logic",
+  "version": "0.0.0",
+  "description": "Optimise media query logic to get rid of unnecessary code blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OddDev/postcss-optimise-media-query-logic.git"
+  },
+  "keywords": [
+    "postcss",
+    "plugin",
+    "postcss-plugin",
+    "css",
+    "mediaquery",
+    "mq",
+    "logic",
+    "logical",
+    "optimization",
+    "optimisation"
+  ],
+  "author": "Kai Klostermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OddDev/postcss-optimise-media-query-logic/issues"
+  },
+  "homepage": "https://github.com/OddDev/postcss-optimise-media-query-logic#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  },
+  "dependencies": {
+    "postcss": "^7.0.32"
+  }
+}
