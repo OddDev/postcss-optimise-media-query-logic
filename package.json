@@ -1,6 +1,6 @@
 {
   "name": "@odddev/postcss-optimise-media-query-logic",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Optimise media query logic to get rid of unnecessary code blocks.",
   "main": "index.js",
   "files": [
